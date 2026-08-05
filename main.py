@@ -2,7 +2,7 @@ def welcome():
     print("Welcome to Python")
 
 def greet(name):
-    print("Hello..", name)
+    print("Hello.", name)
 
 def square():
     return 5 * 5
