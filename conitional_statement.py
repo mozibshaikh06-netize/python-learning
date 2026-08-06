@@ -8,3 +8,6 @@ elif marks >= 50:
     print("Grade C")
 else:
     print("Fail")
+
+for i in range(1, 6):
+    print(i)  
