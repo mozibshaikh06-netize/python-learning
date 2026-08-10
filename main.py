@@ -20,7 +20,7 @@ result2 = add(10, 20)
 print("Sum =", result2)
 
 a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
+b = int(input("Enter second number.: "))
 
 print("Addition =", a + b)
 print("Subtraction =", a - b)
