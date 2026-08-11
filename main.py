@@ -27,3 +27,6 @@ print("Subtraction =", a - b)
 print("Multiplication =", a * b)
 print("Division =", a / b)
 print("Modulus =", a % b)
+
+for i in range(1, 6):
+    print(i)  
