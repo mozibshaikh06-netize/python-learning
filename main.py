@@ -38,7 +38,7 @@ for i in range(1, 6,2):
 def check_status(status_code):
     match status_code:
         case 200:
-            return "Success"
+            return "Success."
         case 400:
             return "Bad Request"
         case 404:
