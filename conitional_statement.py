@@ -15,6 +15,6 @@ for i in range(1, 6):
 age = 20
 
 if age >= 18:
-    print("You are an adult")
+    print("You are anadult")
 else:
     print("You are a minor")    
