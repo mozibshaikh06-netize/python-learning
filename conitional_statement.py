@@ -18,3 +18,15 @@ if age >= 18:
     print("You are anadult")
 else:
     print("You are a minor")    
+
+fruits = ["Apple", "Banana", "Mango", "Orange"]
+
+print(fruits)
+
+print(fruits[0])
+
+fruits.append("Grapes")
+
+fruits.remove("Banana")
+
+print(fruits)
